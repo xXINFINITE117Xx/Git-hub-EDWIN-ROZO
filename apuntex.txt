@@ -1,0 +1,33 @@
+(w) = es el encargado de darle el ancho a nuestro elemento
+(h) = es el encargado de de darle altura a nuestro elemento
+(rounded-full) = es una forma de decir todo full
+(mr) = es el encargado de distaciar los elementos
+(mx) = es el encargado de darle el tamaño maximo a nuestro elemento junto con un "h-12"
+(bg) = es el encargado de de darle color de fondo a nuestra pagina o ya sea tambien en nuestro elemento
+(shadow-md) = es el encargado de darle sombra a nuestro elemento
+
+
+
+
+<div>
+          <h3 class="font-semibold">@Apptastico</h3>
+          <p class="text-gray-600">in <a href="#" class="text-blue-500 hover:underline">pellentesque.com</a> taucibum. Nulla at</p>
+          <p class="text-gray-600">nulta justo, eget Dulg allquet egestas <a href="#" class="text-blue-500 hover:underline">#punus</a> in <a href="#" class="text-blue-500 hover:underline">#blanda.</a></p>
+          <p class="text-gray-600 mt-6"><a href="#" class="text-blue-500 hover:underline">Follow us on twitter.</a></p>
+        </div>
+
+
+
+<div>
+          <h3 class="font-semibold">@Apptastico</h3>
+          <p class="text-gray-600">in <a href="#" class="text-blue-500 hover:underline">pellentesque.com</a> taucibum. Nulla at</p>
+          <p class="text-gray-600">nulta justo, eget Dulg allquet egestas <a href="#" class="text-blue-500 hover:underline">#punus</a> in <a href="#" class="text-blue-500 hover:underline">#blanda.</a></p>
+        </div>
+
+
+
+<div>
+          <h3 class="font-semibold">@Apptastico</h3>
+          <p class="text-gray-600">in <a href="#" class="text-blue-500 hover:underline">pellentesque.com</a> taucibum. Nulla at</p>
+          <p class="text-gray-600">nulta justo, eget Dulg allquet egestas <a href="#" class="text-blue-500 hover:underline">#punus</a> in <a href="#" class="text-blue-500 hover:underline">#blanda.</a></p>
+        </div>
